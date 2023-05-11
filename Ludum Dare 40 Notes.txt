@@ -1,0 +1,20 @@
+LUDUM DARE 40
+THEME - The more you have, the worse it is
+
+IDEAS:
+
+- Shepherd who controls a herd of sheep. The more sheep you have, the more items you can obtain to keep the sheep alive. However, whenever a sheep dies, you lose a life. The more sheep you have, the quicker you are likely to lose.
+  You have to protect your herd from:
+	- the cold (different weather events [snow, rain, storm])
+	- wolf attack
+	- getting herd away from a diseased sheep (that could blow up or something?)
+	- gunmen?
+	- flooding (get all animals in a boat Noah's ark style?)
+
+- You control a castle which grows over time. The more gold you collect, the more invaders try and steal the gold. You must balance your gold amount with defence systems such as cannons, archers, a moat, fire arrows?
+
+  lightning,
+    disease,
+    wolves,
+    flood,
+    snow
